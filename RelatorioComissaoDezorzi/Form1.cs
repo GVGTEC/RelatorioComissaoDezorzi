@@ -41,7 +41,7 @@ namespace RelatorioComissaoDezorzi
             //StreamReader sr1 = new StreamReader("C:\\SACTRM\\LANCA.TXT");
             //StreamReader sr2 = new StreamReader("C:\\SACTRM\\TOTAIS.TXT");
 
-            StreamReader sr1 = new StreamReader("C:\\LANCA.TXT");
+            StreamReader sr1 = new StreamReader("C:\\LANCA1.TXT");
             StreamReader sr2 = new StreamReader("C:\\TOTAIS.TXT");
 
             while ((linha = sr1.ReadLine()) != null)
